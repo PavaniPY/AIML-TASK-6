@@ -1,10 +1,10 @@
 # AIML-TASK-6
 
-🎯 Objective
+# 🎯 Objective
 
 Implement and analyze the K-Nearest Neighbors (KNN) algorithm for classification using a real-world dataset.
 
-🛠 Tools & Libraries
+# 🛠 Tools & Libraries
 
 Python 3.x
 
@@ -16,12 +16,12 @@ Matplotlib
 
 Seaborn (optional, for better visualization)
 
-📂 Dataset
+# 📂 Dataset
 
 Dataset Used: Iris Dataset (https://www.kaggle.com/datasets/uciml/iris)
 
 
-📌 Instructions & Steps
+# 📌 Instructions & Steps
 1. Import Libraries
 
 2. Load and Prepare the Dataset
@@ -36,7 +36,7 @@ Dataset Used: Iris Dataset (https://www.kaggle.com/datasets/uciml/iris)
 
 7. Visualize Results (Optional)
 
-✅ Learning Outcomes
+# ✅ Learning Outcomes
 
 Understood how KNN works for classification.
 
@@ -44,6 +44,6 @@ Gained hands-on experience with scikit-learn’s KNeighborsClassifier.
 
 Learned to normalize data and evaluate classification models.
 
-OUTPUT: [K-Nearest Neighbors_TASK_6.pdf](https://github.com/user-attachments/files/20993020/K-Nearest.Neighbors_TASK_6.pdf)
+# OUTPUT: [K-Nearest Neighbors_TASK_6.pdf](https://github.com/user-attachments/files/20993020/K-Nearest.Neighbors_TASK_6.pdf)
 
 
